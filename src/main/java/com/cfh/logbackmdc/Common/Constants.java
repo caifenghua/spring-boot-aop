@@ -1,4 +1,4 @@
-package com.cfh.logbackmdc.Common;
+package com.cfh.logbackmdc.common;
 
 /**
  * @ClassName Constants
